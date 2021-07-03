@@ -12,3 +12,8 @@ h2{
 p{
     font-weight: 900;
 }
+
+img{
+    margin: 10px;
+    display: block;
+}
